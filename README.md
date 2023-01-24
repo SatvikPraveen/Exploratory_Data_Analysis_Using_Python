@@ -1,4 +1,4 @@
-# Credit-EDA-Assignment
+# EDA- Financial Datasets
 Exploratory Data Analysis on Financial Datasets
 Problem Statement - I
 
